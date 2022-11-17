@@ -1,0 +1,8 @@
+.about button {
+    width: 200px;
+}
+
+.about button:hover {
+background-color: #000000;
+color: #ffffff;
+}

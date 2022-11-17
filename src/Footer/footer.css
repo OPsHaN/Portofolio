@@ -1,0 +1,8 @@
+.back {
+    height: auto;
+    background-color: #000000;
+    background-image: url("/images/bk.jpg");
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+}

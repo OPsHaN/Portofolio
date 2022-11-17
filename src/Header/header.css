@@ -1,0 +1,20 @@
+.page {
+    height: 400px;
+    background-color: #000000;
+    background-image: url("/images/bk.jpg");
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+}
+
+.page button {
+    width: 150px;
+}
+
+.page button:hover {
+background-color: #000000;
+color: #ffffff;
+
+
+}
+
